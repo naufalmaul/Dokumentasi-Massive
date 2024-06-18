@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://1.bp.blogspot.com/drive-storage/AJQWtBPX5LrngPOTZ6xWCKinOf_izGGkAcnfurCwZ6Bu_3mkzltPu-hSRdSotlW7qGJdYsBDH8GH4lf_cFjUwZWpMDAB8oRx8TLISkKWnYmsvVHBiA=w589-h283" align="center" style="width: 100%" />
+<img src="https://github.com/Myrythm/Dokumentasi-Massive/assets/160560916/a6e7f0fa-cfd1-4223-9bbc-161f2a722bf4" align="center" style="width: 100%" />
 </div>  
   
 
