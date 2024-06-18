@@ -33,32 +33,32 @@ Member of the group 28:
 Pada awalan, kami menggunakan transformers lalu mengimport beberapa library seperti pipeline, auto tokenizer dan auto model for sequence classification.
 Kami juga menggunakan model yang "pretrained".  
   
-
-![](https://1.bp.blogspot.com/drive-storage/AJQWtBNXA3TKia8EGoyyGEnZH1gKipqBfNqDMYF9ESrssZfOx0I_XXNK7KZ9FqamOCc1ZrvF2jHFKRHWybrBX_VgbvRsDNzSOXsDJu7scyALmTmnyKg=w607-h240)  
+![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/867dbbbb-f160-46c3-bd56-990ece54abe9)  
   
 
 Pada tahap ini kami memangil fungsi untuk melakukan sentiment analysis dengan membuat beberapa label index yaitu: positif, negatif dan netral.  
   
 
-![](https://1.bp.blogspot.com/drive-storage/AJQWtBN_nmfL41I9Vn7-rjM1SS6RPf53AQxG7ynoVxYtUr-DhyAlnBipqszTnEhGTGba3km8vOV7LykTulBXX2yCPZVJGMBQBxjEybdrHjgPbX7Gak0=w611-h50)  
+![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/5f529f51-0d7f-4e2f-aeaa-31506dfc36e7)  
   
 
 Dilanjutkan dengan kami mengimpor library random lalu kami melakukan set-up untuk respon apa saja yang akan dikeluarkan sesuai label yang di deteksi oleh si model.  
   
 
-![](https://1.bp.blogspot.com/drive-storage/AJQWtBNl9DUoSk5EZ9euCAfc2nhrnvPWXTx061XoY0CwG2BRNA5IgDhWyLhkqHJOgT_TBF-lfqs2s5jGfS-KlZTsnKmmw6g90X5cn8vFEdnmKLZQGuI=w629-h248)  
+![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/e20da385-d8ab-4aeb-9e02-18c91d051cd4)  
   
 
 Pada tahap ini kami melakukan permisalan sesuai dengan sentimen yang di deteksi oleh model.  
-  
 
-![](https://1.bp.blogspot.com/drive-storage/AJQWtBPvZlN39Ko3KVI2nhBE0_HFYpv9fn6fnzlhHq-G6iD2yojzKPB8OIBPOx6DTpYSRcVuLf24ToPQRBy6R8dwZq8b7DpW7tTQzqJNxX5DaerB6Qk=w624-h167)  
+
+
+![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/ce67cec1-4cb9-45ac-8880-f25dea382a29)  
   
 
 Akhirnya kami melakukan tes pada model ini, model ini bisa mendeteksi sentimen dari bahasa indonesia dengan baik.  
-  
 
-![](https://1.bp.blogspot.com/drive-storage/AJQWtBNt3URtjpCDdoooeWq9XeWiQ1FNLyN2LVEV0oycnagBJmXRQvmu6LY1pv5w3pq_m6KMY8KJsZZFp8a3O87DYg_g9z7wP-TvbjgJHy0YYqcWew=w629-h59)  
+
+![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/d2c9af93-4f02-4421-af30-714f60701ada)  
   
 
 ## Our Tech Stacks  
