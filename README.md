@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https:https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/4308a93a-bd87-4b25-bff9-5a71bd47c1ad" align="center" style="width: 100%" />
+<img src="https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/01ba6bcb-7d06-401c-ba9a-9d11f4bd5339" align="center" style="width: 100%" />
 
 
 # <div align="center">Hello mentor and visitors!👋</div>  
