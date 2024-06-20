@@ -58,7 +58,25 @@ Akhirnya kami melakukan tes pada model ini, model ini bisa mendeteksi sentimen d
 
 
 ![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/d2c9af93-4f02-4421-af30-714f60701ada)  
-  
+
+## Integrasi Model Dengan Web HTML
+
+Kami menggunakan flask dan huggingface api token untuk menghosting web ini, ini merupakan Back-End
+![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/4f1372b6-cf05-477e-985f-3b0b3eb852a3)
+
+
+Kami menggunakan HTML sebagai Front-End Website
+![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/b50a3de8-abd4-4ca7-a75f-68a46389b1c5)
+
+
+Kami menggunakan Javascript sebagai Front-End Website
+![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/751a576e-00f0-4d7a-a614-1242a1b3f7db)
+
+
+Kami menggunakan CSS sebagai Front-End Website
+![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/d5255674-2b4e-4d3c-8900-4941cad03906)
+
+
 
 ## Our Tech Stacks  
   
