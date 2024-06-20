@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://github.com/Myrythm/Dokumentasi-Massive/assets/160560916/a6e7f0fa-cfd1-4223-9bbc-161f2a722bf4" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https:https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/4308a93a-bd87-4b25-bff9-5a71bd47c1ad" align="center" style="width: 100%" />
+
 
 # <div align="center">Hello mentor and visitors!👋</div>  
   
