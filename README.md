@@ -70,7 +70,7 @@ Kami menggunakan HTML sebagai Front-End Website
 ![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/b50a3de8-abd4-4ca7-a75f-68a46389b1c5)
 
 
-Kami menggunakan Javascript sebagai Front-End Website
+JavaScript digunakan di sisi frontend untuk mengirim data ke backend Flask melalui permintaan HTTP, dilakukan dengan menggunakan metode “fetch”. Di sisi Flask, data yang diterima dari frontend diproses dan hasilnya dikirim kembali ke frontend untuk ditampilkan kepada pengguna. Berikut merupakan kode dari Javascript:
 ![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/751a576e-00f0-4d7a-a614-1242a1b3f7db)
 
 
