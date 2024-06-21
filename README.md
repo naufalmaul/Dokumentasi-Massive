@@ -61,7 +61,8 @@ Akhirnya kami melakukan tes pada model ini, model ini bisa mendeteksi sentimen d
 
 ## Integrasi Model Dengan Web HTML
 
-Kami menggunakan flask dan huggingface api token untuk menghosting web ini, ini merupakan Back-End
+Kami menggunakan flask dan huggingface api token untuk menghosting web ini, ini merupakan Back-End. Kami mengintegrasikan endpoint API ke dalam komponen frontend untuk memungkinkan penggunaan model secara interaktif di dalam website. Dalam Flask, kami dapat menggunakan library “requests” untuk mengirim permintaan HTTP ke API model. Berikut merupakan sebagian kode dari flask:
+
 ![](https://github.com/naufalmaul/Dokumentasi-Massive/assets/160560916/4f1372b6-cf05-477e-985f-3b0b3eb852a3)
 
 
